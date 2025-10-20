@@ -1,7 +1,7 @@
 ---
-title: Ubuntu 24.04에서 Cockpit '관리되지 않음' 및 '오프라인' 오류 해결
+title: Ubuntu Server 24.04에서 'Cannot refresh cache whilst offline' 오류 해결
 date: 2025-10-18 00:00:00 +0900
-categories: [Linux]
+categories: [Server]
 tags: [ubuntu, cockpit, networkmanager, netplan, boot]
 ---
 
